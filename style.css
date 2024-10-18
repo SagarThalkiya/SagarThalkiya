@@ -114,6 +114,7 @@ section{
     font-size: 2rem;
     color: var(--main-color);
     margin: 3rem 1.5rem 3rem 0;
+    
 }
 
 .social-media a:hover {
@@ -440,7 +441,7 @@ span{
     }
 
     .home-img{
-        width: 70vw;
+        width: vw;
         margin-top: 4rem;
     }
 
@@ -470,6 +471,9 @@ span{
 @media (max-width: 617px) {
     .portfolio-container{
         grid-template-columns: 1fr;
+    }
+    .home-img{
+        width: 35vw;
     }
 }
 
@@ -501,3 +505,6 @@ span{
         margin-top: 2rem;
     }
 }
+
+
+
