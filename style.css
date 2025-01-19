@@ -296,7 +296,7 @@ span{
     color: var(--second-bg-color);
 }
 
-.contact h2{
+/* .contact h2{
     margin-bottom: 3rem;
 }
 
@@ -335,9 +335,9 @@ span{
 .contact form .btn{
     margin-top: 2rem;
     cursor: pointer ;
-}
+}*/
 
-.footer{
+.footer{ 
     display: flex;
     justify-content: space-between;
     align-items: center;
