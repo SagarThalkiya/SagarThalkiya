@@ -67,7 +67,8 @@ I'm a final-year Electronics and Telecommunication student at PICT with a passio
 ---
 
 ### 👁️ Visitor Count  
-![Visitors](https://shields.io/badge/dynamic/json?color=informational&label=visitors&query=value&url=https://api.countapi.xyz/hit/SagarThalkiya-profile/visits)
+![](https://komarev.com/ghpvc/?username=SagarThalkiya&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 </div>
