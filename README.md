@@ -67,7 +67,8 @@ I'm a final-year Electronics and Telecommunication student at PICT with a passio
 ---
 
 ### 👁️ Visitor Count  
-<img src="https://visitcount.itsvg.in/api?id=SagarThalkiya&icon=5&color=1" />
+![Visitors](https://shields.io/badge/dynamic/json?color=informational&label=visitors&query=value&url=https://api.countapi.xyz/hit/SagarThalkiya-readme/visits)
+
 
 </div>
 
