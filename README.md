@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💫 About Me:
-I'm a final-year Electronics and Telecommunication student at PICT with a passion for full-stack development. I’ve interned at Proacure Corp, where I worked on backend systems using FastAPI, PostgreSQL, and AWS. I enjoy building impactful web apps and have developed projects like Campus Notes, Billify, and Imagify. With 350+ coding problems solved across LeetCode, CodeChef, and Codeforces, I'm always eager to learn and take on new challenges in tech.
+Graduated in 2025 with a Bachelor of Engineering in Electronics and Communications Engineering from Pune Institute of Computer Technology. Completed a Full-stack Developer Internship at Proacure, where contributions included designing scalable, multi-threaded backends using FastAPI and Python, optimizing API response times with Redis-based caching, and integrating PostgreSQL databases for secure data management. 
+
+Core technical proficiencies include SQL, AWS, and Tailwind CSS, coupled with an AMCAT certification in IT services. Motivated to enhance backend efficiency and scalability, with a focus on impactful software solutions and innovative development in the tech domain.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sagar-thalkiya-a273bb229) 
