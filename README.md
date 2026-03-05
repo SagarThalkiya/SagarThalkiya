@@ -1,9 +1,11 @@
 <div align="center">
 
 # 💫 About Me:
-Graduated in 2025 with a Bachelor of Engineering in Electronics and Communications Engineering from Pune Institute of Computer Technology. Completed a Full-stack Developer Internship at Proacure, where contributions included designing scalable, multi-threaded backends using FastAPI and Python, optimizing API response times with Redis-based caching, and integrating PostgreSQL databases for secure data management. 
+Software Engineer specializing in backend and full-stack development, experienced in building scalable and production-ready applications using Java, Python, FastAPI, Node.js, and React.js. Skilled in designing REST APIs, distributed systems, and database-driven services using PostgreSQL, MongoDB, Redis, and SQL. Experienced in performance optimization, caching strategies, and modular backend architecture.
 
-Core technical proficiencies include SQL, AWS, and Tailwind CSS, coupled with an AMCAT certification in IT services. Motivated to enhance backend efficiency and scalability, with a focus on impactful software solutions and innovative development in the tech domain.
+At Proacure Corp, developed backend services handling large volumes of API traffic, improved system performance through query optimization and Redis caching, and contributed to AI-powered document processing pipelines. Strong understanding of Data Structures, OOP, system design fundamentals, and software engineering best practices.
+
+Actively seeking Software Development Engineer (Backend / Full-Stack) roles to contribute to scalable enterprise systems and high-performance software platforms.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/sagar-thalkiya-a273bb229) 
